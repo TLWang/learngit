@@ -1,2 +1,3 @@
-my first git file
+test
+my first git file ! 
 Git is free software
